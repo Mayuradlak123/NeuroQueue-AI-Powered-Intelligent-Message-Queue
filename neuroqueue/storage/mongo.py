@@ -9,7 +9,7 @@ class MongoCustomClient:
         try:
             self.client = MongoClient(settings.MONGO_URI)
             self.db = self.client[settings.MONGO_DB]
-            logger.info(f"Connected to MongoDB at {settings.MONGO_URI}, DB: {settings.MONGO_DB}")
+            logger.info(f"Connected to MongoDB, DB: {settings.MONGO_DB}")
         except Exception as e:
             logger.error(f"Failed to connect to MongoDB: {e}")
             raise e

@@ -22,4 +22,5 @@ logs/
 .DS_Store
 
 #Doc
-*.txt
+project.txt
+# *.txt  <-- Commented out to allow requirements.txt

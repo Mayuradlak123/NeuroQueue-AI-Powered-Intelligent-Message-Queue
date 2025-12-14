@@ -1,0 +1,11 @@
+# Core
+fastapi
+uvicorn[standard]
+pydantic
+uvloop
+fsspec
+requests
+jinja2
+python-multipart
+uvloop
+fsspec
