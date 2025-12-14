@@ -1,0 +1,25 @@
+# Environment Variables
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data Storage (Local)
+chroma_db/
+neuroqueue_data/
+logs/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+#Doc
+*.txt
