@@ -7,6 +7,7 @@ Unlike traditional DLQs (Dead Letter Queues) that rely on error codes, NeuroQueu
 ![NeuroQueue Dashboard](https://via.placeholder.com/800x400?text=NeuroQueue+AI+Dashboard)
 
 ---
+<img width="1918" height="895" alt="image" src="https://github.com/user-attachments/assets/49479bc6-afb9-478e-90ae-66f74c488147" />
 
 ## 🌟 Key Features
 
